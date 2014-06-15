@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>cheque</name>
+	<displayName><![CDATA[Платеж чеком]]></displayName>
+	<version><![CDATA[2.5]]></version>
+	<description><![CDATA[Этот модуль позволяет вам принимать платежи чеком (векселем).]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Вы уверены, что хотите удалить информацию о себе?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>crossselling</name>
+	<displayName><![CDATA[Кросс-продажи]]></displayName>
+	<version><![CDATA[0.9]]></version>
+	<description><![CDATA[На страницу продукта добавляется раздел &amp;quot;С этим товаром так же покупают...&amp;quot;.]]></description>
+	<author><![CDATA[PrestaShop]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
